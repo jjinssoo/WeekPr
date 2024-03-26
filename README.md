@@ -1,2 +1,2 @@
-# thirdWeekPr
-3주차 과제
+# WeekPr
+과제
